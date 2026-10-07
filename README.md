@@ -2,6 +2,12 @@
 
 A small Chrome extension that adds a **"Neetcode solution"** button to LeetCode problem pages. Click it and the matching [NeetCode](https://neetcode.io) solution opens in a new tab. No searching, no copy-pasting the problem name.
 
+## Screenshots
+
+![NeetCode solution button on LeetCode](screenshots/leetcode-button.png)
+
+![NeetCode solution page](screenshots/neetcode-solution.png)
+
 ## Features
 
 - **One click to the solution.** The button sits right after the **Submissions** tab, in the same place on every problem.
@@ -45,6 +51,7 @@ If LeetCode changes its page layout and the tab bar can't be found, the extensio
 ├── solutions.js    # LeetCode slug -> NeetCode URL map
 ├── styles.css      # Button styling
 ├── icons/          # Extension icons (16, 32, 48, 128 px)
+├── screenshots/    # Preview screenshots
 ├── README.md
 ├── CONTRIBUTING.md
 └── LICENSE
