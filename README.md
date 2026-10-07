@@ -81,6 +81,7 @@ Good places to start if you'd like to contribute:
 
 - [ ] Automated tests for the button placement logic
 - [ ] A script that regenerates `solutions.js` from NeetCode's problem list
+- [ ] Split view support: clicking the button opens the NeetCode solution page in a split view (on the right) alongside the LeetCode problem page (on the left)
 - [ ] Firefox support
 - [ ] A popup or options page, for example to turn the button off or change its color
 - [ ] Publish to the Chrome Web Store
